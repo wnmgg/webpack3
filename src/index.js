@@ -1,4 +1,4 @@
-console.log('index2');
+console.log('index2-d');
 
 class Log{
     constructor(){
